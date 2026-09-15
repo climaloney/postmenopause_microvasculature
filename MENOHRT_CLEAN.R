@@ -1,9 +1,7 @@
 # MENOHRT.R
 # Analysis of Menopause and Hormone Replacement Therapy effects on CVC
-# Author: [Your Name]
-# Date: [Current Date]
 
-setwd("C:/Users/carma/Documents/R/MD")
+
 options(scipen = 9999)
 
 ### LIBRARY LOADING ####
